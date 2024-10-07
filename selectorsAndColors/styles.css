@@ -1,0 +1,27 @@
+body {
+    background-color: hsl(39, 6%, 83%);
+}
+h1 {
+    color: rgb(12, 37, 134);
+}
+.brand span {
+    color: #d69e36;
+}
+.menu > li > a {
+    color: rgb(134, 12, 110);
+}
+.menu span {
+    color: red;
+}
+[data-role="dropdown"] {
+    background-color: hsl(39, 21%, 73%);
+}
+[data-role="dropdown"] span {
+    color: rgb(14, 86, 96);
+}
+[data-role="dropdown"] ul :nth-child(2){
+    background-color: purple;
+}
+.content *{
+    color: rgb(0, 139, 139);
+}
